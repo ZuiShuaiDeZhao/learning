@@ -22,3 +22,12 @@ src
 						-Dversion=版本号
 						-Dpackage=代码所存在的包名
 						
+	maven:坐标
+		构件
+	maven仓库：
+		本地仓库和远程仓库
+	镜像仓库(比如国内镜像版本)
+	
+	更改仓库位置：
+	修改settings.xml文件----<localRepository>*...*</localRepository>
+	
